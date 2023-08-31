@@ -29,7 +29,7 @@ public class DoublyLinkedList {
 	    }   
 	}
 	 
-	// Function to print linked list
+	// Function to print Doubly linked list
 	static void print(Node head)
 	{
 	    Node temp = head;
@@ -45,7 +45,7 @@ public class DoublyLinkedList {
 	static Node head;
 	static Node tail;
 	
-	// Function to push a node in DLL
+	// Function to push a node in Doubly linked List
 	static void push( String item)
 	{
 	 
